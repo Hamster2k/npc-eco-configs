@@ -1,0 +1,16 @@
+{
+  "Info1": "NidToolbox Light: ChatTags settings.",
+  "Info2": "You can edit color, priority and visibility options manually.",
+  "Info3": "Membership and Ids should only be ever changed by in-game commands, to avoid load errors or misstypes.",
+  "Info4": "Membership of Manual tag type is exposed here for reference only. This property updates automatically.",
+  "Info5": "---------------------------------------------------------------------------------------------------------",
+  "OnDutyTag": "Admin",
+  "SelfAssignableTagsEnabled": false,
+  "GloballyDisableAdminTag": false,
+  "SpaceBetweenTagAndNameChat": false,
+  "SpaceBetweenTagAndNameUI": false,
+  "TooltipTagSeparator": ", ",
+  "ThickenFontInTooltips": true,
+  "PlayerColors": [],
+  "PlayerTags": []
+}

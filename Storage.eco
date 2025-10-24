@@ -1,0 +1,7 @@
+{
+  "SaveName": "Oct2025",
+  "SaveFrequency": 30,
+  "CleanupFilesOnExceptions": false,
+  "StorageDirectory": "Storage",
+  "NewGameTemplate": ""
+}

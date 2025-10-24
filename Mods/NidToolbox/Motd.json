@@ -1,0 +1,10 @@
+{
+  "Info1": "NidToolbox Light: MOTD settings.",
+  "MotdEnabled": true,
+  "ShowAsPopUp": true,
+  "ShowInChat": false,
+  "ShowOnlyOnce": false,
+  "WindowTitle": "MOTD",
+  "ButtonText": "OK",
+  "AllowMotdOptOut": true
+}

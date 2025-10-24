@@ -1,0 +1,11 @@
+<size=23><color=yellow>Welcome</color> to our Server, {{USER}}!</size>
+
+Our world has been up for <color=yellow>{{WORLDAGE}}</color>. Our peak activity was <color=#0070B6>{{USERSPEAKONLINE}} <size=26><ecoicon name="nid-User"></size>players online</color> at the same time on <color=green>{{USERSPEAKONLINEDATE}}</color>.
+
+<size=24><ecoicon name="nid-SeaLevel"></size><color=#0070B6>Sea level</color> has risen by <color=#964B00>{{SEARISENTODAY}} meters</color> in <color=yellow>last 24 hours</color>, that is <color=#964B00>{{SEARISENTOTAL}} meters</color> since server start.
+
+<size=26><ecoicon name="nid-CO2"></size><color=#808080>Carbon dioxide levels</color> changed by <color=#964B00>{{CO2RISENTODAY}} PPM</color> in <color=yellow>last 24 hours</color>, that is <color=#964B00>{{CO2RISENTOTAL}} PPM</color> since server start. <size=24><ecoicon name="nid-CO2"></size><color=#808080>Carbon dioxide lifetime emission</color> from pollution only is <color=#964B00>{{CO2LIFETIMEPOLLUTION}}</color> PPM.
+
+<size=26><ecoicon name="nid-Temp"></size><color=orange>Temperature</color> has risen by <color=#964B00>{{TEMPRISENTODAY}}</color> degrees in <color=yellow>last 24 hours</color>, that is <color=#964B00>{{TEMPRISENTOTAL}}</color> degrees since server start. Total <size=26><ecoicon name="nid-Pollution"></size><color=#808080>ground pollution</color> amounts to <color=#964B00>{{GROUNDLIFETIMEPLLUTION}} PPM</color>.
+
+There are <color=yellow>{{USERSACTIVE}} <size=26><ecoicon name="nid-User"></size>active players</color> and <color=orange>{{USERSONLINE}} <size=26><ecoicon name="nid-User"></size>online users</color>, including <color=yellow>{{ADMINSONLINE}} <size=26><ecoicon name="nid-User"></size>admins</color>.
