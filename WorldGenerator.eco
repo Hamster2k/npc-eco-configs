@@ -133,7 +133,7 @@
   "TerrainModule": {
     "$id": "11",
     "$type": "Eco.WorldGenerator.TerrainModule, Eco.WorldGenerator",
-    "Name": "World",
+    "Name": "TestWorld",
     "Modules": [
       {
         "$id": "12",
