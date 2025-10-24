@@ -21,8 +21,8 @@
         "Seed": 892647351,
         "PointRadius": 10.0,
         "LandPercentRange": {
-          "min": 0.6,
-          "max": 0.75
+          "min": 0.7,
+          "max": 0.85
         },
         "CoastlineSize": 1,
         "ShallowOceanSize": 2,
