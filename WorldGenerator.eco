@@ -72,8 +72,8 @@
           "max": 8.0
         },
         "NumRiversRange": {
-          "min": 2.0,
-          "max": 5.0
+          "min": 6.0,
+          "max": 10.0
         },
         "RiverCellAvoidance": 2,
         "RiverCellWidth": 25.0,
