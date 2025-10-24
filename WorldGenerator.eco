@@ -18,7 +18,7 @@
       "$type": "Eco.WorldGenerator.VoronoiModule, Eco.WorldGenerator",
       "Config": {
         "$id": "5",
-        "Seed": 1272939195,
+        "Seed": 892647351,
         "PointRadius": 10.0,
         "LandPercentRange": {
           "min": 0.6,
@@ -76,7 +76,7 @@
           "max": 5.0
         },
         "RiverCellAvoidance": 2,
-        "RiverCellWidth": 10.0,
+        "RiverCellWidth": 25.0,
         "MaxElevationOceanDistance": 10.0,
         "ElevationPower": 2.0,
         "AutoScale": true,
