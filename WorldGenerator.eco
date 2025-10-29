@@ -18,7 +18,7 @@
       "$type": "Eco.WorldGenerator.VoronoiModule, Eco.WorldGenerator",
       "Config": {
         "$id": "5",
-        "Seed": 467829154,
+        "Seed": 1394785620,
         "PointRadius": 10.0,
         "LandPercentRange": {
           "min": 0.7,
