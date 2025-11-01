@@ -82,11 +82,11 @@
   "HomesteadMinRequiredPlotCoveragePercentage": 0.5,
   "MinSubSettlementsToFoundSettlement": [
     2,
-    2
+    0
   ],
   "MinSubSettlementsToMaintainSettlement": [
     2,
-    2
+    0
   ],
   "MinCitizensToFoundSettlement": [
     3,
