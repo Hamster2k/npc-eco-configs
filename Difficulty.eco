@@ -22,7 +22,7 @@
       "CanAbandonSpecialties": true,
       "SpecialtyRefundPercentage": 0.8,
       "GainCharacterExperienceWithSpecialtyExperience": 0.0,
-      "StackSizeMultiplier": 1.5,
+      "StackSizeMultiplier": 2.0,
       "WeightMultiplier": 1.0,
       "FuelEfficiencyMultiplier": 1.0,
       "GrowthRateMultiplier": 1.0,
