@@ -12,5 +12,51 @@
   "TooltipTagSeparator": ", ",
   "ThickenFontInTooltips": true,
   "PlayerColors": [],
-  "PlayerTags": []
+  "PlayerTags": [
+    {
+      "TagName": "Admin",
+      "IsSelfAssignable": false,
+      "Color": "#FFFF00",
+      "Brackets": "[]",
+      "BracketColor": "#FDE698",
+      "ShowInChat": true,
+      "ShowInUserTooltip": true,
+      "ShowInObjectives": true,
+      "ShowInUI": true,
+      "SizeInUserTooltip": 24,
+      "TooltipText": "",
+      "TextInUI": "",
+      "TextInObjectives": "",
+      "TextInChat": "",
+      "RoleTitleOnHover": "",
+      "RoleDescriptionOnHover": "",
+      "Priority": 1,
+      "Italic": false,
+      "Underline": false,
+      "UnderlineColor": "#FDE698",
+      "Type": "Manual",
+      "Members": [
+        {
+          "Name": "Divine",
+          "SteamId": "76561198016863162",
+          "SlgId": "e7ddbc05-299e-4662-7b99-08dc8d1bff58"
+        },
+        {
+          "Name": "Hamster",
+          "SteamId": "76561197971576196",
+          "SlgId": "553d4cf0-1381-464e-d7b5-08dcbd395caf"
+        },
+        {
+          "Name": "T-Dog",
+          "SteamId": "76561198031796678",
+          "SlgId": "01ae8a51-d5fa-4247-3b3c-08dcc0749632"
+        }
+      ],
+      "HideForMembersGlobal": [],
+      "HideForIndividualChat": [],
+      "HideForIndividualUI": [],
+      "HideForIndividualTooltips": [],
+      "HideForIndividualObjectives": []
+    }
+  ]
 }

@@ -1,0 +1,2 @@
+Action is <color=red>prevented</color> until you accept <color=blue>server rules</color>
+Use <color=yellow>/rules-accept</color> to accept the server rules!

@@ -1,0 +1,3 @@
+This server requires <color=yellow>rules acceptance</color>.
+Use <color=yellow>/rules-accept</color> to accept server rules.
+You can read them using <color=yellow>/rules-show</color>.

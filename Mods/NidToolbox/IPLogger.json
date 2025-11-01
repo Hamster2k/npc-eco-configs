@@ -1,0 +1,13 @@
+{
+  "Info1": "NidToolbox Light: IP Logger settings.",
+  "IPLoggerEnabled": true,
+  "LogLogouts": true,
+  "PerUserLogFiles": true,
+  "GlobalLogFiles": true,
+  "ReportInConsole": true,
+  "ReportInGameLog": true,
+  "MakeCSVFile": false,
+  "NotifySameIPs": false,
+  "AllowedIPAddresses": [],
+  "AllowedSameIPs": []
+}

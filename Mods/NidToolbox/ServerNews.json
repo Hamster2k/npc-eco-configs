@@ -1,0 +1,7 @@
+{
+  "Info1": "NidToolbox Light: Server News settings.",
+  "WindowType": "Legacy",
+  "WindowTitle": "<color=#add8e6><i>MyServer</i>™</color> <color=yellow>Server News</color>",
+  "ShowOnLogin": false,
+  "DisplayDelay": 30
+}

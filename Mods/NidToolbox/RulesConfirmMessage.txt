@@ -1,0 +1,6 @@
+You need to <color=yellow><b>accept rules</b></color> to play on this server.
+
+Certain actions are <color=red><b>disabled</b></color>, until you do so.
+To review the ruleset again, select <b>No</b> and invoke <color=yellow>/rules-show</color> command.
+
+Do you <b>accept</b> the ruleset of this server?

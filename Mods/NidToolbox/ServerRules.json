@@ -1,0 +1,13 @@
+{
+  "Info1": "NidToolbox Light: Rules settings.",
+  "RulesEnabled": true,
+  "PreventClaiming": false,
+  "AllowStarterCamp": true,
+  "PreventChopping": false,
+  "PreventMining": false,
+  "PreventLittering": false,
+  "PasswordEnabled": false,
+  "Password": "someSecretPassword",
+  "InformEveryone": false,
+  "RulesWindowTitle": "Server Rules"
+}
