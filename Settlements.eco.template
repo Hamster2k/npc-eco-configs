@@ -55,7 +55,7 @@
   "BasePlotsOnFoundation": [
     9,
     16,
-    25
+    75
   ],
   "BasePlotsOnHomesteadClaimStake": 16,
   "BasePlotsOnOutpostClaimStake": 16,
@@ -69,7 +69,7 @@
   "SettlementFoundationBaseInfluence": [
     45.0,
     150.0,
-    24000.0
+    400.0
   ],
   "SettlementInfluenceMultiplier": [
     1.0,
@@ -81,32 +81,32 @@
   "SettlementMinRequiredPlotCoveragePercentage": 0.2,
   "HomesteadMinRequiredPlotCoveragePercentage": 0.5,
   "MinSubSettlementsToFoundSettlement": [
-    0,
-    0
+    2,
+    2
   ],
   "MinSubSettlementsToMaintainSettlement": [
-    0,
-    0
+    2,
+    2
   ],
   "MinCitizensToFoundSettlement": [
     3,
     12,
-    0
+    1
   ],
   "MinCitizensToMaintainSettlement": [
     2,
     6,
-    0
+    1
   ],
   "MinCultureToFoundSettlement": [
     0.0,
     60.0,
-    0
+    0.0
   ],
   "MinCultureToMaintainSettlement": [
     0.0,
     30.0,
-    0
+    0.0
   ],
   "CultureToInfluenceMappingPerSettlementType": [
     {
