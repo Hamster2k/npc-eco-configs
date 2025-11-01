@@ -81,32 +81,32 @@
   "SettlementMinRequiredPlotCoveragePercentage": 0.2,
   "HomesteadMinRequiredPlotCoveragePercentage": 0.5,
   "MinSubSettlementsToFoundSettlement": [
-    2,
-    2
+    0,
+    0
   ],
   "MinSubSettlementsToMaintainSettlement": [
-    2,
-    2
+    0,
+    0
   ],
   "MinCitizensToFoundSettlement": [
     3,
     12,
-    30
+    0
   ],
   "MinCitizensToMaintainSettlement": [
     2,
     6,
-    15
+    0
   ],
   "MinCultureToFoundSettlement": [
     0.0,
     60.0,
-    400.0
+    0
   ],
   "MinCultureToMaintainSettlement": [
     0.0,
     30.0,
-    120.0
+    0
   ],
   "CultureToInfluenceMappingPerSettlementType": [
     {
